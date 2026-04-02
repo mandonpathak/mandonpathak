@@ -24,6 +24,14 @@
     font-weight: bold;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
+
+/* Sidebar styling */
+.sidebar img {
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 8px;
+    max-width: 200px;
+}
 </style>
 </head>
 
@@ -42,6 +50,17 @@
     <div id="container"> 
       <div id="content"> 
 
+        <!-- Sidebar left -->
+        <div id="sidebar-left" class="sidebar">
+          <ul class="nav">
+            <li class="current"><a href="index.html">HOME</a></li>
+            <li><a href="research.html">RESEARCH</a></li>
+            <li><a href="teaching.html">TEACHING</a></li>
+            <li><a href="connect.html">TRAVEL SCHEDULE</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+          </ul>
+        </div>
+
         <!-- Center content -->
         <div id="center">
           <h2>Mandon Pathak</h2>
@@ -53,16 +72,9 @@
           <h4>I am a graduate student at Purdue University focused on research in Harmonic Analysis and PDEs.</h4>
         </div>
 
-        <!-- Sidebar left -->
-        <div id="sidebar-left" class="sidebar">
-          <ul class="nav">
-            <li class="current"><a href="index.html">HOME</a></li>
-            <li><a href="research.html">RESEARCH</a></li>
-          </ul>
-        </div>
-
         <!-- Sidebar right -->
-            <img src="mandon_pathak_image_01.jpg" width="200" alt="Mandon Pathak" title="Mandon Pathak">
+        <div id="sidebar-right" class="sidebar">
+            <img src="images/mandon_pathak_image_01.jpg" alt="Mandon Pathak" title="Mandon Pathak">
         </div>
 
       </div> <!-- End #content -->
