@@ -105,7 +105,7 @@ body.wide #sidebar-right {width: 100%; margin: 0px; padding: 0.5em 0px; backgrou
 
 /* 4.HEADER */
 
-#header {background: url("../images/body_bg2.jpg"); background-repeat:repeat-x; background-position: left center; background-size: 100%; margin: 0; padding: 5px; height: auto; min-width: inherit; width: auto; border-bottom: 0.15em solid #B1B0BE;}
+#header {background: url("../images/color.jpg"); background-repeat:repeat-x; background-position: left center; background-size: 100%; margin: 0; padding: 5px; height: auto; min-width: inherit; width: auto; border-bottom: 0.15em solid #B1B0BE;}
 #header a {border: 0px;}
 #header #logo {float: none; padding: 0;}
 #header #site {float: none; margin: 0px; padding: 0px; width: auto; height: auto; border-left: none;}
