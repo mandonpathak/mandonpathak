@@ -275,7 +275,7 @@ fieldset legend {color: #333;}
 #layout {background: url('../images/color.jpg') 0px 0px repeat-x;}
 #wrapper {position: relative; margin: 0 auto; padding: 0px; width: 960px; min-width: 960px;}
 body.wide #wrapper {margin: 0px auto; padding: 0px; width: 95%;}
-#container {clear: both; margin: 0px 0px 0px 0px; padding: 15px 0px 20px 0px;}
+#container {clear: both; margin: 0px 0px 0px 0px; padding: 10px 0px 10px 0px;}
 body.nav #container, body.drawer #container {border-top: 1px solid #eae9e6;}
 #content {margin: 15px 0px 2px 0px; position: relative;}
 body.nav #content {margin: 2px 0px;}
