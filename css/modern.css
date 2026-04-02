@@ -272,7 +272,7 @@ fieldset legend {color: #333;}
 
 /* 2.LAYOUT */
 
-#layout {background: url('../images/body_bg2.jpg') 0px 0px repeat-x;}
+#layout {background: url('../images/color.jpg') 0px 0px repeat-x;}
 #wrapper {position: relative; margin: 0 auto; padding: 0px; width: 960px; min-width: 960px;}
 body.wide #wrapper {margin: 0px auto; padding: 0px; width: 95%;}
 #container {clear: both; margin: 0px 0px 0px 0px; padding: 15px 0px 20px 0px;}
