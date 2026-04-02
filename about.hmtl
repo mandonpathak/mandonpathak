@@ -19,12 +19,16 @@
 <div id="layout"> 
   <div id="wrapper"> 
 
+    <!-- Header -->
     <div id="header"> 
       <div id="logo"></div>
     </div>
 
+    <!-- Main container -->
     <div id="container"> 
       <div id="content"> 
+
+        <!-- Center content -->
         <div id="center">
           <h4>About Me</h4>
           <p>
@@ -35,20 +39,24 @@
           </p>
         </div>
 
+        <!-- Sidebar left -->
         <div id="sidebar-left" class="sidebar">
           <ul class="nav">
             <li><a href="index.html">HOME</a></li>
-            <li class="current"><a href="research.html">RESEARCH</a></li>
+            <li><a href="research.html">RESEARCH</a></li>
             <li><a href="teaching.html">TEACHING</a></li>
             <li><a href="connect.html">TRAVEL SCHEDULE</a></li>
-            <li><a href="about.html">ABOUT</a></li>
+            <li class="current"><a href="about.html">ABOUT</a></li>
           </ul>
         </div>
 
+        <!-- Sidebar right (empty for now) -->
         <div id="sidebar-right" class="sidebar"></div>
-      </div>
-    </div>
-  </div>
-</div>
+
+      </div> <!-- End #content -->
+    </div> <!-- End #container -->
+
+  </div> <!-- End #wrapper -->
+</div> <!-- End #layout -->
 </body>
 </html>
