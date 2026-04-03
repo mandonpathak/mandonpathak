@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Mandon Pathak::Purdue University</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="shortcut icon" type="image/x-icon" href="images/purdue_icon.png" />
+	<link rel="stylesheet" type="text/css" href="css/modern.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="css/mobile.css" media="only screen and (max-width: 640px)" />
+</head>
+<body class="two-sidebars">
+<div id="skipnav"><a href="#content">Skip navigation</a></div>
 
+<div id="layout"> 
+  <div id="wrapper"> 
+
+    <div id="header"> 
+      <div id="logo"></div>
+    </div>
+
+    <div id="container"> 
+
+      <div id="content"> 
+        
+        <div id="center">
+						<h3>Ongoing Work</h3>
+
+	<ul>
+  	<li>On the Curved Bilinear Hilbert Carleson Operator.</li>
+  <li>On the generalized KdV (gKdV) equation.</li>
+	</ul>
+         <h3>Papers and Preprints</h3>
+          <p>
+            My research focuses on <strong>Harmonic Analysis and PDEs</strong>.
+          </p>
+          <p>
+            You can read my one and only paper here of <a href="https://arxiv.org/abs/2603.12555" target="_blank">here</a>.
+          </p>
+		<ul>
+  		<li>
+   			 "Nontrivial weak solutions of the stationary KdV equation in sharp <em>L<sup>p</sup></em> spaces", 
+  			  [<a href="https://arxiv.org/abs/2603.12555" target="_blank">arXiv</a>]. 
+    			
+  		</li>
+		</ul>
+			
+        </div>
+
+        <div id="sidebar-left" class="sidebar">
+          <ul class="nav">
+            <li><a href="index.html">HOME</a></li>
+            <li class="current"><a href="research.html">RESEARCH</a></li>
+          </ul>
+        </div>
+
+        <div id="sidebar-right" class="sidebar"></div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
